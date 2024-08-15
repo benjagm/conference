@@ -1,5 +1,5 @@
-baseURL = "https://benjagm.github.io/conference/"
-relativeURLs = false
+baseURL = "/"
+relativeURLs = true
 languageCode = "en-us"
 title = "JSON Schema Conf'24"
 
@@ -15,7 +15,7 @@ theme = "devfest-theme-hugo"
     images = ["/images/"]
     email = "info@json-schema.org"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
-    appleTouchIcon = "/apple-touch-icon.png"
+    appleTouchIcon = "apple-touch-icon.png"
     favicon32 = "/favicon.ico"
     favicon16 = "/favicon.ico"
     manifest = "/manifest.json"
@@ -23,9 +23,9 @@ theme = "devfest-theme-hugo"
     themeColor = "#00040f"
     
 [params.logos]
-    jumbo = "/images/logos/json-schema-logo-white.svg"
-    header = "/images/logos/json-schema-logo-white.svg"
-    footer = "/images/logos/json-schema-logo-white.svg"
+    jumbo = "images/logos/json-schema-logo-white.svg"
+    header = "images/logos/json-schema-logo-white.svg"
+    footer = "images/logos/json-schema-logo-white.svg"
 
 [Data]
   schedule = "2024-12-05"  # update date 
