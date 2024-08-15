@@ -1,0 +1,12 @@
+- key: office-hours-1
+  start: '10:40'
+  duration: 30
+  row:
+    start: 10
+    end: 12
+- key: office-hours-2
+  start: '11:40'
+  duration: 30
+  row:
+    start: 14
+    end: 16

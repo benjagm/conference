@@ -1,0 +1,18 @@
+id: HJRThubF4uYPkb7jSUxi
+name: JSON Schema Conf'24
+address:
+  formattedAddress: "CNIT Forest - Paris, France"
+  locality:
+    short_name: Paris
+    long_name: Paris
+  country:
+    short_name: FR
+    long_name: France
+  latLng:
+    lat: 43.6115538
+    lng: 1.4345827
+dates:
+  start: "2024-12-05T10:00:00.000Z"
+  end: "2024-12-05T10:00:00.000Z"
+
+  # update dates here

@@ -1,0 +1,7 @@
+- day: '2019-12-05'
+  start: '08:00'
+  rooms:
+    - room: office1
+      slots:
+        - slot: office-hours-1
+        - slot: office-hours-2
