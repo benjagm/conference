@@ -1,5 +1,5 @@
-baseURL = "/"
-relativeURLs = true
+baseURL = "https://benjagm.github.io/conference/"
+relativeURLs = false
 languageCode = "en-us"
 title = "JSON Schema Conf'24"
 
