@@ -1,7 +1,7 @@
 baseURL = "/"
 relativeURLs = true
 languageCode = "en-us"
-title = "JSON Schema Conf'24"
+title = "JSON Schema Conference 24"
 
 # theme
 theme = "devfest-theme-hugo"
@@ -9,9 +9,9 @@ theme = "devfest-theme-hugo"
 # params
 
 [params]
-    title = "JSON Schema Conf'24"
+    title = "JSON Schema Conference 24"
     date = "2024-12-05"  # update date 
-    description = "JSON Schema Conf website for 2024"
+    description = "JSON Schema Conference website for 2024"
     images = ["/images/"]
     email = "info@json-schema.org"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"

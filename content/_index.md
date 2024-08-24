@@ -7,7 +7,7 @@ menu:
     weight: -1
 ---
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="JSON Schema Conf'24" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="JSON Schema Conference 24" %}}
 
 ## December 5rd, 2024
 
@@ -19,7 +19,7 @@ menu:
 
 {{% home-info what="Day:1,Participants:1000,Sessions:8" class="primary" %}}
 
-## What is JSON Schema Conf'24?
+## What is JSON Schema Conference 24?
 
 <!-- change -->
 
